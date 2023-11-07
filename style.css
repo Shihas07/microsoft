@@ -1,0 +1,338 @@
+*{
+  margin: 0;
+  border:0;
+}
+.header{
+  
+  width: 1261px;
+  height: 54;
+ display: flex;
+  
+
+}
+.nav{
+
+  height: 100%;
+}
+.logo{
+  margin-left: 78px;
+  
+  width: 150px;
+
+}
+.logo img{
+  width: 137px;
+  height: 54;
+  padding-top: 13px;
+
+  
+}
+.elements{
+  display:flex;
+justify-content: space-between;
+margin-top: 20px;
+  margin-right: 10px;
+  
+width: 1000px;
+
+
+  
+  
+}
+.bb{
+  
+  display: flex;
+  
+  
+}
+.b {
+  
+   padding: 0 5px; 
+  height: 48;
+  display: flex;
+  color: black;
+  
+}
+.aa{
+ color: black;
+ text-decoration: none;
+
+}
+.aa:hover{
+  text-decoration: underline;
+}
+.w{
+  margin-left: 10px;
+}
+
+#ab{
+  color: black;
+  text-decoration: none;
+}
+#ab:hover{
+  text-decoration: underline;
+}
+
+.section{
+  background-image: url(images/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create_VP4-1399x600.avif);
+  width: 1251px;
+  height: 536px;
+}
+.content{
+  margin-left:100px ;
+  padding-top: 250px;
+  
+}
+.content h2{
+  margin: 100p;
+  font-size: 30px;
+}
+.content p{
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 20px;
+}
+.content button{
+  width: 130px;
+  height: 40px;
+  background-color: rgb(0,103,184);
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.content a{
+  color: black;
+  font-style: times;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.section-2{
+  clear: both;
+  display: flex;
+  margin-left: 300px;
+  
+  
+  
+}
+.image1,.image2,.image3,.image4{
+  width: 150px;
+  height: 50px;
+ 
+  border: 1px solid white;
+  text-align: center;
+  padding-top: 100px;
+  
+  
+  
+  
+
+}
+.section-3{
+  clear: both;
+  display: flex;
+  
+  /* margin-left: 15px; */
+  
+  
+}
+.device1,.device2,.device3,.device4{
+  width: 300px;
+  
+  border: 1px solid white;
+  text-align: center;
+  margin: 0 10px;
+  
+
+  padding-top: 100px;
+  
+
+}
+.section-4{
+  clear: both;
+  width: 1100px;
+  height: 500px;
+  background-color: blue;
+  
+  margin-left: 70px;
+  margin-right: -10px;
+  margin-top: 70px;
+  background-image: url("images/Highlight-Bing-AI-Open-Preview_VP4-1260x600.avif");
+  cursor: pointer;
+}
+.content-section-4{
+  width: 300px;
+  height: 200px;
+  
+  margin-left: 150px;
+  padding-top: 180px;
+  
+  
+}
+.content-section-4 h1{
+  font-size: 29px;
+  line-height: 34px;
+  font-weight: 600;
+  
+  
+}
+.content-section-4 p{
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 10px;
+
+}
+
+.content-section-4 button{
+  background-color:rgb(0,103,184) ;
+  width: 171px;
+  height: 40px;
+  color: white;
+  margin-top: 20px;
+  font-size: 15px;
+  border-radius: 5px;
+
+}
+.section-5{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 70px;
+  
+  margin-top: 10px;
+  width: 1100px;
+  
+
+}
+.img1 img{
+  margin-left: 30px;
+  width: 230px;
+}
+.img1 h1{
+  margin-left: 30px;
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: 20px;
+
+}
+.img1 p{
+  margin-left:30px ;
+  line-height: 20px;
+
+}
+.img1 a{
+  margin-left: 30px;
+  
+}
+.for{
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.section-6{
+  width: 1100px;
+  height: 400px;
+  background-color: blue;
+  margin-top: 50px;
+  
+  margin-left: 70px;
+  background-image: url("images/Highlight-Microsoft-Responsible-AI_VP4-1260x600.avif");
+  cursor: pointer;
+  padding-top: 100px;
+  
+}
+.content6{
+  background-color: white;
+  width: 400px;
+  height: 300px;
+  line-height: 20px;
+  margin-left: 70px; 
+  padding-left: 70px; 
+  padding-bottom: 40px;
+  
+}
+.content6 h2{
+  padding-top: 60px;
+  padding-right: 80px;
+  line-height: 30px;
+  font-size:30px ;
+}
+.content6 p{
+  padding-right: 80px;
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 20px;
+}
+.content6 button{
+  background-color:rgb(0,103,184) ;
+  width: 310px;
+  height: 50px;
+  color: white;
+  font-size: 16px;
+  margin-top: 30px;
+  text-align: justify;
+  cursor: pointer;
+  
+}
+.section-7{
+  
+  height: 150px;
+
+  display: flex;
+  text-align: center;
+  padding-left: 70px;
+  padding-top: 70px;
+  
+}
+.section-7 img{
+  width: 40px;
+  height: 30px;
+  cursor: pointer;
+}
+.section-7 p{
+  padding-top: 8px;
+  font-size: 15px;
+}
+.footer{
+  width: 100%;
+  height: 450px;
+  background-color:rgb(242,242,242);
+  
+  padding-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.footer-elements{
+  
+  
+  width: 150px;
+  height: 450px;
+  line-height: 30px;
+  margin-left: 50px;
+  
+}
+.footer-elements a{
+  color:rgb(97,97,97);
+  cursor: pointer;
+  text-decoration: none;
+}
+.footer-elements a:hover{
+  
+  
+  text-decoration: underline;
+
+
+}
+.footer-elements h4{
+  color: rgb(120,97,97);
+}
+
+
+
+
+
+  
+
+
+
+
+
